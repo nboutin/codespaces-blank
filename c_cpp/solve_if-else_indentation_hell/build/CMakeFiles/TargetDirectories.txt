@@ -1,0 +1,3 @@
+/workspaces/codespaces-blank/solve_if-else_indentation_hell/build/CMakeFiles/edit_cache.dir
+/workspaces/codespaces-blank/solve_if-else_indentation_hell/build/CMakeFiles/rebuild_cache.dir
+/workspaces/codespaces-blank/solve_if-else_indentation_hell/build/CMakeFiles/if-else_to_success-failure_boolean.dir
